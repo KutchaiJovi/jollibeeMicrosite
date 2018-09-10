@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    max-height: 100vh;
+    background-color: #E2253B;
+}
+
+.jabiButton{
+    z-index: 4;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    height: 90px;
+}
+
+.adCon{
+    height: 100%;
+    width: auto;
+}
